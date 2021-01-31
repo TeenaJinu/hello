@@ -6,7 +6,7 @@ elif(value>3 and value<5):
     print("Three to Five, Thanks!")  
 else:
     print("Discount")   
-    print("John" > "Sam")   
+    print("John" > "Sam") 
 
 
 

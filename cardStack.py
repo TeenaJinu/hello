@@ -4,10 +4,10 @@ cardNames=["Spade","Club","Hearts","Diamond"]
 cardNos= range(1,14)
 cards=[]
 for n in cardNames:
-    print (n)
     for num in cardNos:
         print (num)
         cards.append("{0}  {1}".format(n,num))
+        
 print (cards)
 
 

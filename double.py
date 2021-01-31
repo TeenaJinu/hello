@@ -6,4 +6,5 @@ while startNo <= 10**12 :
     startNo = startNo*2
     print (startNo) 
     iterCount =iterCount + 1   
-print ("No of iterations = " + str(iterCount))      
+print ("No of iterations = " + str(iterCount))  
+print("End")    
